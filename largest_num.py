@@ -1,4 +1,4 @@
-# Python program to find the largest number among the three input numbers
+# Python program to find the Largest number among the three input numbers
 
 #default values
 num1 = 10
