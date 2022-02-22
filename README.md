@@ -2,7 +2,7 @@
 
 In this program, you'll learn to find the Largest among three numbers using if else and display it.
 
-To understand this example, you should have the knowledge of the following Python programming topics:
+To Understand this example, you should have the knowledge of the following Python programming topics:
 
 Python if...else Statement
 Python Input, Output and Import
