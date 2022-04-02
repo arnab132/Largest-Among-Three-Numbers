@@ -1,6 +1,6 @@
 # Largest-Among-Three-Numbers
 
-In this program, you'll learn to find the Largest among three numbers using if else and display it.
+In this program, you'll learn to find the Largest among the Three numbers using if else and display it.
 
 To Understand this example, you should have the knowledge of the following Python programming topics:
 
